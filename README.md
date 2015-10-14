@@ -1,0 +1,1 @@
+The Ruby program calculates student fees for those attending ABC College. The program creates and calls function with parameters. It also throws and catches exceptions when a user enters invalid data values.
